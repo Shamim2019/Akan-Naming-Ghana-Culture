@@ -1,7 +1,13 @@
-h1{
+ h1{
     font-style: normal;
-    color: aquamarine;
+    color: red;
     display: flex;
     padding: 10px;
-    font-size: 1px;
+    
 }
+
+.parent-container{
+    background-color: chartreuse;
+    padding-bottom: 10px;
+    padding-top: 10px; 
+}   
