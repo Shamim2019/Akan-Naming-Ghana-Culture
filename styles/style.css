@@ -3,11 +3,29 @@
     color: red;
     display: flex;
     padding: 10px;
+    font-size: x-large;
+    text-align: center;
+    flex-direction: row;
     
 }
 
 .parent-container{
     background-color: chartreuse;
     padding-bottom: 10px;
-    padding-top: 10px; 
+    padding-bottom: 10px; 
+    text-align: center;
+    
+     }
 }   
+.child-container{
+    text-align: center;
+    background-color: chartreuse;
+    padding: 10px;
+    font-family: monospace;
+    font-size: xx-small;
+    display: flex;
+}
+h2{
+    font-size: x-large;
+    text-transform: overflow;
+}
