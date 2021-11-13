@@ -1,6 +1,6 @@
  h1{
     font-style: normal;
-    color:red;
+    color: blue;
     display: flex;
     padding: 10px;
 
@@ -11,3 +11,9 @@
      padding-bottom: 10px;
      padding-top: 10px; 
  }     
+legend{
+    font-size: medium;
+    column-gap: 10vmin;
+    margin-top: 2rem;
+    color: maroon;
+}
