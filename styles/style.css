@@ -27,6 +27,11 @@
     display: flex;
 }
 h2{
-    font-size: ;
-    text-transform: overflow;
+    font-size:x-small ;
+   text-emphasis: none;
+}
+h3{
+    font-size:x-small ;
+    text-emphasis: none;
+ 
 }
