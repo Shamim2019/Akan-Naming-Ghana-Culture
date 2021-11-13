@@ -1,6 +1,6 @@
  h1{
     font-style: normal;
-    color: red;
+    color:blue;
     display: flex;
     padding: 10px;
     font-size: medium;
@@ -27,11 +27,11 @@
     display: flex;
 }
 h2{
-    font-size:x-small ;
+    font-size:medium ;
    text-emphasis: none;
 }
 h3{
-    font-size:x-small ;
+    font-size:medium ;
     text-emphasis: none;
  
 }
