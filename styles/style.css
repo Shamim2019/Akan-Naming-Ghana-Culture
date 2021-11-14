@@ -17,7 +17,7 @@
     font-size: medium;
     
      }
-}   
+  
 .child-container{
     text-align: center;
     background-color: chartreuse;
@@ -34,4 +34,7 @@ h3{
     font-size:medium ;
     text-emphasis: none;
  
+}
+contacts{
+    color: coral;
 }
