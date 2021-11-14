@@ -17,3 +17,15 @@ legend{
     margin-top: 2rem;
     color: maroon;
 }
+h2{
+    color: rgb(14, 12, 131);
+    text-align: center;
+    justify-content: right;
+    
+}
+p{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
