@@ -29,3 +29,9 @@ p{
 ol{
     text-align: center;
 }
+
+h3{
+    color: crimson;
+    text-align:left;
+    background-color: cyan;
+}
