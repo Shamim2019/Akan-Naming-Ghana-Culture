@@ -6,6 +6,8 @@ This is an application that generates user's Akan names based on their respetive
   ## Author
    Shamim maloba
 
+   ## live link
+   https://shamim2019.github.io/Akan-Naming-Ghana-Culture/
 
    ### Prerequisites
 
