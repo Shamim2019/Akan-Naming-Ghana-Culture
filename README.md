@@ -5,8 +5,8 @@ This is an application that generates user's Akan names based on their respetive
 
   ## Author
    Shamim maloba
-
-
+### live link
+   https://shamim2019.github.io/Akan-Naming-Ghana-Culture/
    ### Prerequisites
 
 You need to have git installed
@@ -18,7 +18,7 @@ To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 1. Use this command to clone `$ git clone  git@github.com:Shamim2019/Akan-Naming-Ghana-Culture.git
 1. This will clone the repositoty into your local folder
-
+ 
 ## Contact
 Kindly reach out to me through the following contacts;
 
