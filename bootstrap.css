@@ -35,3 +35,12 @@ h3{
     text-align:left;
     background-color: cyan;
 }
+h4{
+    color: crimson;
+    background-color: darkgray;
+
+}
+p2{
+    justify-content: left;
+    image-rendering: inherit; 
+}
