@@ -10,18 +10,18 @@
 
     
 
-function akanNaming(event) {
-    event.preventDefault();
-     let gender = document.getElementById('gender').value
-    let date = document.getElementById('date').value
+function akanName(event) {
+     event.preventDefault()
+     let gender = document.getElementById('gender').value;
+    let date = document.getElementById('date').value;
     // let name=document.getElementById('name').value
      let dayNumber = new Date("date").getDay(); 
 
-     if (gender == '' || date == '') {
-        alert('Error! You have to provide both your gender and name')
+     if (gender == ''|| date == '') {
+        alert('Error! You have to provide both your gender and date of birth')
      }
 
-    else if(gender=='male'){
+    else if(gender=='male'){ 
          alert(`born on${weekDays[dayNumber]}
          and your akanname is ${maleNames[dayNumber]}`)
     }
