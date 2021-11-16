@@ -12,10 +12,10 @@
 
 function akanName(event) {
      event.preventDefault()
-     let gender = document.getElementById('gender').value;
+     let gender = document.querySelector('#gender').value;
     let date = document.getElementById('date').value;
     // let name=document.getElementById('name').value
-     let dayNumber = new Date("date").getDay(); 
+     let dayNumber = new Date(date).getDay(); 
 
      if (gender == ''|| date == '') {
         alert('Error! You have to provide both your gender and date of birth')
