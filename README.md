@@ -25,9 +25,11 @@ Kindly reach out to me through the following contacts;
 Email: shamimmaloba@gmail.com
 phone: +254 792151788
  
- ##  Technologies Used
-HTML, BOOTSTRAP, JAVASCRIPT
-
+ ##  Technologies Used   
+      HTML
+      Bootstrap
+      JavaScript
+ 
    ## Setup and Installation Instructions
 The project is setup in the visual studio code with an html file, javascript file and bootstrap plugin.
 
