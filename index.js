@@ -13,7 +13,7 @@
 function akanName(event) {
      event.preventDefault()
      let gender = document.querySelector('#gender').value;
-    let date = document.getElementById('date').value;
+    let date = document.querySelector('#date').value;
     // let name=document.getElementById('name').value
      let dayNumber = new Date(date).getDay(); 
 
